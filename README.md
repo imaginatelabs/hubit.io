@@ -1,2 +1,2 @@
 # hubit.io
-Setup GitHub projects to help report on delivery stats
+Source for the Hubit.io website
